@@ -1,3 +1,2 @@
-# sample
 
-this  is an sample project
+This  is an sample project
